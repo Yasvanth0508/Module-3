@@ -17,6 +17,7 @@ print(8 in x)
 ```
 
 ## Output
-![Uploading 439304784-44697301-a4c1-4deb-81b4-2e5b1382f7be.png…]()
+![439304784-44697301-a4c1-4deb-81b4-2e5b1382f7be](https://github.com/user-attachments/assets/4b542e58-722f-4b28-8029-8b7e3250f87e)
+
 
 ## Result
